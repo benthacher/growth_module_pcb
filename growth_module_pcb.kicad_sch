@@ -1,0 +1,563 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "cb0ba87e-5c76-415c-896a-7fba1b606227")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 25.4 86.36)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "15247bbf-d80e-484f-a31b-15b21e3d0747")
+		(property "Sheetname" "RTC"
+			(at 25.4 85.6484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "rtc.kicad_sch"
+			(at 25.4 90.7546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "growth_module_pcb"
+				(path "/cb0ba87e-5c76-415c-896a-7fba1b606227"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 96.52)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1cb9ef84-36a5-43e3-ad3d-d96bfd4316d7")
+		(property "Sheetname" "Power electronics"
+			(at 25.4 95.8084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power_electronics.kicad_sch"
+			(at 25.4 100.9146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "growth_module_pcb"
+				(path "/cb0ba87e-5c76-415c-896a-7fba1b606227"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 116.84)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "22a8ad64-3f62-4b99-afc8-f08ca84739ff")
+		(property "Sheetname" "Door and Drawer"
+			(at 25.4 116.1284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "door_and_drawer.kicad_sch"
+			(at 25.4 121.2346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "growth_module_pcb"
+				(path "/cb0ba87e-5c76-415c-896a-7fba1b606227"
+					(page "12")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 76.2)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "246f7b13-b245-4834-bf2b-425097e43f40")
+		(property "Sheetname" "Pumps"
+			(at 25.4 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pumps.kicad_sch"
+			(at 25.4 80.5946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "growth_module_pcb"
+				(path "/cb0ba87e-5c76-415c-896a-7fba1b606227"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 147.32)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3e1eabb0-87f0-4e20-bb85-253917c28c36")
+		(property "Sheetname" "Fans"
+			(at 25.4 146.6084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "fans.kicad_sch"
+			(at 25.4 151.7146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "growth_module_pcb"
+				(path "/cb0ba87e-5c76-415c-896a-7fba1b606227"
+					(page "15")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 45.72)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3e5195a4-a351-4e3c-96d1-395243009122")
+		(property "Sheetname" "External Sensors"
+			(at 25.4 45.0084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "external_sensors.kicad_sch"
+			(at 25.4 50.1146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "growth_module_pcb"
+				(path "/cb0ba87e-5c76-415c-896a-7fba1b606227"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 66.04)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "435e7b96-7ee2-4a1a-889a-eddfa4af3f3f")
+		(property "Sheetname" "IO Expander"
+			(at 25.4 65.3284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "io_expander.kicad_sch"
+			(at 25.4 70.4346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "growth_module_pcb"
+				(path "/cb0ba87e-5c76-415c-896a-7fba1b606227"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 106.68)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7e58e412-174f-4071-be1e-df923cad0c89")
+		(property "Sheetname" "Piezo buzzer"
+			(at 25.4 105.9684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "piezo_buzzer.kicad_sch"
+			(at 25.4 111.0746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "growth_module_pcb"
+				(path "/cb0ba87e-5c76-415c-896a-7fba1b606227"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 137.16)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "83999093-1e82-42fc-8534-f0a977e87113")
+		(property "Sheetname" "Reservoir Mixer"
+			(at 25.4 136.4484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "reservoir_mixer.kicad_sch"
+			(at 25.4 141.5546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "growth_module_pcb"
+				(path "/cb0ba87e-5c76-415c-896a-7fba1b606227"
+					(page "14")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 127)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9cbf337b-c7a5-412c-baa6-63baee577da9")
+		(property "Sheetname" "Heater"
+			(at 25.4 126.2884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "heater.kicad_sch"
+			(at 25.4 131.3946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "growth_module_pcb"
+				(path "/cb0ba87e-5c76-415c-896a-7fba1b606227"
+					(page "13")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 55.88)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a8f00fd5-6185-4022-bcba-71959f57e6d9")
+		(property "Sheetname" "Touchscreen"
+			(at 25.4 55.1684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "touchscreen.kicad_sch"
+			(at 25.4 60.2746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "growth_module_pcb"
+				(path "/cb0ba87e-5c76-415c-896a-7fba1b606227"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 24.765)
+		(size 12.7 4.445)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c59713ed-1421-4e6b-941c-470a8e9e3474")
+		(property "Sheetname" "MCU"
+			(at 25.4 24.0534 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 25.4 29.7946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "growth_module_pcb"
+				(path "/cb0ba87e-5c76-415c-896a-7fba1b606227"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 35.56)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c60d6108-2ea3-44da-9b79-b71cec144012")
+		(property "Sheetname" "USB Camera"
+			(at 25.4 34.8484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "usb_camera.kicad_sch"
+			(at 25.4 39.9546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 25.4 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field3" ""
+			(at 25.4 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "growth_module_pcb"
+				(path "/cb0ba87e-5c76-415c-896a-7fba1b606227"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 157.48)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d7a9d85b-0f5d-4ba2-840a-24e1d96ba7f0")
+		(property "Sheetname" "Grow Lights"
+			(at 25.4 156.7684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "grow_lights.kicad_sch"
+			(at 25.4 161.8746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "growth_module_pcb"
+				(path "/cb0ba87e-5c76-415c-896a-7fba1b606227"
+					(page "15")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

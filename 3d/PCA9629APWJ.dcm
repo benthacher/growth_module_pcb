@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCA9629APWJ
+D NXP - PCA9629APWJ - STEPPER MOTOR CONTROLLER,I2C, TSSOP-16
+K
+F http://www.nxp.com/docs/en/data-sheet/PCA9629A.pdf
+$ENDCMP
+#
+#End Doc Library
